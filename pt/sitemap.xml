@@ -2,43 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/bem-vindo-ao-full-stack-hacker/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/welcome-to-full-stack-hacker/"
+                href="/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/posts/bem-vindo-ao-full-stack-hacker/"
-                />
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/"
-                />
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2019-11-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/posts/"
+                href="/about/"
                 />
   </url><url>
     <loc>/categories/</loc>
@@ -51,6 +25,18 @@
                 rel="alternate"
                 hreflang="pt"
                 href="/categories/"
+                />
+  </url><url>
+    <loc>/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/"
                 />
   </url><url>
     <loc>/tags/</loc>
