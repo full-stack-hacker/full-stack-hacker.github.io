@@ -41,18 +41,6 @@
                 href="/en/posts/welcome-to-full-stack-hacker/"
                 />
   </url><url>
-    <loc>/en/about/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-  </url><url>
     <loc>/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
