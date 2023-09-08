@@ -28,19 +28,6 @@
                 href="/en/tags/deep-learning/"
                 />
   </url><url>
-    <loc>/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/</loc>
-    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/posts/uso-de-uma-rede-neural-artificial-para-previs%C3%A3o-do-volume-de-lodo-gerado-em-esta%C3%A7%C3%B5es-de-efluente-t%C3%AAxtil-um-estudo-de-caso/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/"
-                />
-  </url><url>
     <loc>/en/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,6 +78,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/posts/use-of-an-artificial-neural-network-for-predicting-sludge-volume-generated-in-textile-effluent-treatment-plants-a-case-study/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/posts/uso-de-uma-rede-neural-artificial-para-previs%C3%A3o-do-volume-de-lodo-gerado-em-esta%C3%A7%C3%B5es-de-efluente-t%C3%AAxtil-um-estudo-de-caso/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/use-of-an-artificial-neural-network-for-predicting-sludge-volume-generated-in-textile-effluent-treatment-plants-a-case-study/"
                 />
   </url><url>
     <loc>/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/</loc>
