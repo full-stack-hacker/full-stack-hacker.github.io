@@ -2,20 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/about/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/about/"
-                />
-  </url><url>
     <loc>/en/categories/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -27,7 +15,34 @@
                 href="/en/categories/"
                 />
   </url><url>
+    <loc>/en/tags/deep-learning/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/deep-learning/"
+                />
+  </url><url>
+    <loc>/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/posts/desenvolvimento-de-um-sistema-de-previs%C3%A3o-de-enchentes-em-bacias-hidrogr%C3%A1ficas-por-meio-de-redes-neurais-artificiais./"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/"
+                />
+  </url><url>
     <loc>/en/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -39,7 +54,34 @@
                 href="/en/"
                 />
   </url><url>
+    <loc>/en/categories/papers/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/categories/papers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/papers/"
+                />
+  </url><url>
+    <loc>/en/posts/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/"
+                />
+  </url><url>
     <loc>/en/tags/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -49,6 +91,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/about/</loc>
+    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/about/"
                 />
   </url>
 </urlset>
