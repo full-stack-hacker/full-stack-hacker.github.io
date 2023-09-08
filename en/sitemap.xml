@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/en/categories/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>/en/tags/deep-learning/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -29,11 +29,11 @@
                 />
   </url><url>
     <loc>/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="/posts/desenvolvimento-de-um-sistema-de-previs%C3%A3o-de-enchentes-em-bacias-hidrogr%C3%A1ficas-por-meio-de-redes-neurais-artificiais./"
+                href="/posts/uso-de-uma-rede-neural-artificial-para-previs%C3%A3o-do-volume-de-lodo-gerado-em-esta%C3%A7%C3%B5es-de-efluente-t%C3%AAxtil-um-estudo-de-caso/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -42,7 +42,7 @@
                 />
   </url><url>
     <loc>/en/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -55,7 +55,7 @@
                 />
   </url><url>
     <loc>/en/categories/papers/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>/en/posts/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -81,7 +81,7 @@
                 />
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -91,6 +91,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
+                />
+  </url><url>
+    <loc>/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/</loc>
+    <lastmod>2023-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="/posts/desenvolvimento-de-um-sistema-de-previs%C3%A3o-de-enchentes-em-bacias-hidrogr%C3%A1ficas-por-meio-de-redes-neurais-artificiais/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/posts/development-of-a-flood-forecasting-system-in-hydrographic-basins-by-means-of-artificial-neural-networks/"
                 />
   </url><url>
     <loc>/en/about/</loc>
